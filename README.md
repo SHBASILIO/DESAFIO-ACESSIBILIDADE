@@ -1,13 +1,14 @@
 ### DESAFIO-ACESSIBILIDADE
-Desafio semântica e acessibilidade
+Rocketseat | Explorer | MOD04 | D01
 
-#### DESCRIÇÃO DO PROJETO
+#### PRÁTICA PROPOSTA
 
 <P>
-Sabemos que boa parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML.<br>
-
-Assim, o desafio proposto dessa vez no treinamento <strong><em>Explorer da Rocketseat</strong></em> incluia empregar semântica e acessibilidade em um código, que, embora funcionando normalmente, estava com o HTML todo bagunçado
+- Variáveis
+- Operações matemáticas;
+- Operadores comparativos;
+- Condicional.
 </P>
 
 #### OBJETIVO
-Deixar o site mais acessível.
+Praticar e rever tudo o que foi ensinado no módulo 04
